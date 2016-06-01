@@ -1,3 +1,7 @@
+# Hamster patches 
+
+Removed logic that set fixed height for container, now container is resizing according to it's contents.
+
 # Sticky
 
 Sticky is a jQuery plugin that gives you the ability to make any element on your page always stay visible.
